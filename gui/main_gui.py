@@ -1,5 +1,5 @@
 from tkinter import Tk, LabelFrame, Entry, Button, Label, messagebox, Frame
-from src.classes.openweather import OpenWeather
+from classes.openweather import OpenWeather
 from http import HTTPStatus
 
 
